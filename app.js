@@ -62,5 +62,6 @@ document.getElementById('case-minus').addEventListener('click',function
 
 // checkoout page
 document.getElementById('checkout-button').addEventListener('click',function(){
-    window.location.href='succes.html';
+         window.location.href='succes.html';
+   
 })
